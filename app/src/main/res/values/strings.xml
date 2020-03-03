@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VIJLI</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="confirm_request">Confirm Request</string>
+    <string name="package_description">Package Description</string>
+    <string name="_2_hours">2 Hours</string>
+    <string name="_3_hours">3 Hours</string>
+    <string name="_6_hours">6 Hours</string>
+    <string name="_12_hours">12 Hours</string>
+    <string name="package_description_npackage_name_6_hours_npackage_rate_rs_200_rs_1_km">Package Description  Package Name: 6 Hours  Package Rate: Rs.200 + Rs.1/km</string>
+    <string name="package_description_n_package_name_6_hours_n_package_rate_rs_200_rs_1_km">Package Description   Package Name: 6 hours   Package Rate: Rs. 200 + Rs.1/km</string>
+    <string name="package_desciption">Package Desciption</string>
+    <string name="package_name_6_hours">Package Name: 6 Hours</string>
+    <string name="package_rate_rs_200_rs_1_km">Package Rate: Rs.200+ Rs.1/km</string>
+    <string name="how_much_did_you_enjoy_the_ride">How Much Did You Enjoy The Ride?</string>
+    <string name="submit">Submit</string>
+</resources>
